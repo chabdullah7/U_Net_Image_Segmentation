@@ -46,15 +46,15 @@ Train the U-Net model
 
 Evaluate and visualize segmentation results
 
-Results
+## Results
 
 The model outputs segmented masks highlighting regions of interest. Visualizations compare:
 
-Original input image
+- Original input image
 
-Ground truth mask
+- Ground truth mask
 
-Predicted mask
+- Predicted mask
 
 This helps in assessing model performance visually and quantitatively.
 
